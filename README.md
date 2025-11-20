@@ -64,4 +64,4 @@ Then open: **http://localhost:3000**
 https://github.com/Aryanarya01
 
 ---
-⭐ If you like it, don't forget to star the repo!
+⭐ If you like it, don't forget to star the repo!.
